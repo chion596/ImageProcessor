@@ -1,0 +1,104 @@
+[
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/app/Application.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/Application.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/Application.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/app/Application.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/app/CommandLineParser.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/CommandLineParser.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/CommandLineParser.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/app/CommandLineParser.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/app/FilterFactory.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/FilterFactory.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/FilterFactory.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/app/FilterFactory.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/app/HelpPrinter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/HelpPrinter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/app/HelpPrinter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/app/HelpPrinter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/core/Image.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/core/Image.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/core/Image.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/core/Image.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/io/BmpIO.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/io/BmpIO.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/io/BmpIO.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/io/BmpIO.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/PointwiseFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/PointwiseFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/PointwiseFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/PointwiseFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/MatrixFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/MatrixFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/MatrixFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/MatrixFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/CropFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/CropFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/CropFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/CropFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/GrayscaleFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/GrayscaleFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/GrayscaleFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/GrayscaleFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/NegativeFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/NegativeFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/NegativeFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/NegativeFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/SharpeningFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/SharpeningFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/SharpeningFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/SharpeningFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/EdgeDetectionFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/EdgeDetectionFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/EdgeDetectionFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/EdgeDetectionFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/GaussianBlurFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/GaussianBlurFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/GaussianBlurFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/GaussianBlurFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor_lib.dir/src/filters/ArtisticLensFilter.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/ArtisticLensFilter.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/filters/ArtisticLensFilter.cpp",
+  "output": "CMakeFiles/image_processor_lib.dir/src/filters/ArtisticLensFilter.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/image_processor.dir/src/main.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/main.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src/main.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/src -g -std=c++17 -arch arm64 -o CMakeFiles/unit_tests.dir/tests/test_image_processor.cpp.o -c /Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/tests/test_image_processor.cpp",
+  "file": "/Users/sh_n/ami-Nikita-Shilovskii-wgwkldu/tasks/image_processor/tests/test_image_processor.cpp",
+  "output": "CMakeFiles/unit_tests.dir/tests/test_image_processor.cpp.o"
+}
+]
